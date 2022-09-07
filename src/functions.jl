@@ -1,3 +1,2 @@
-function my_x_squared(x)
-    x^2
-end 
+my_x_squared(x) = return x^2
+plusTwo(x) = return x+2
